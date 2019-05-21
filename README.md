@@ -14,3 +14,4 @@ Than it looking for the best way to deliver all ants from start room to end room
 ```
 L[ant's number]-[destination room's name]
 ```
+![](https://github.com/oandrosh/lem_in/blob/master/screenshot.png)
